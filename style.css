@@ -1,0 +1,50 @@
+
+header{
+   background-color: rgb(74, 190, 190);
+}
+#head{
+    text-align: center;
+    color: brown;
+}
+ul{
+    margin-left: 500px;
+}
+
+.container{
+    width: 600px;
+    height: 500px;
+    background-color: violet;
+    text-align: center;
+    margin-left: 360px;
+}
+
+#PG{
+    font-weight: bolder;
+    color: rgb(51, 145, 42);
+}
+
+.inp{
+    height: 50px;
+    width: 200px;
+    font-size: xx-large;
+    color: darkgreen;
+}
+
+.btn{
+    height: 30px;
+    transition: all 0.5s;
+}
+.btn:hover{
+     background-color: rgb(42, 24, 143);
+     color: cornsilk;
+     border: none;
+}
+
+
+#h3{
+    text-align: center;
+}
+
+button{
+    cursor: pointer;
+}
